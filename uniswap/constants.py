@@ -28,6 +28,7 @@ _netid_to_name = {
     137: "polygon",
     100: "xdai",
     250: "fantom",
+    941: "PulseChain Testnet V2B",
     10001: "ETHW",
     42161: "arbitrum",
     421611: "arbitrum_testnet",
@@ -42,6 +43,7 @@ _factory_contract_addresses_v1 = {
     "kovan": "0xD3E51Ef092B2845f10401a0159B2B96e8B6c3D30",
     "görli": "0x6Ce570d02D73d4c384b46135E87f8C592A8c86dA",
     "ETHW": "0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95",
+    "PulseChain Testnet V2B": "0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95",
 }
 
 
@@ -52,6 +54,7 @@ _factory_contract_addresses_v2 = {
     "ropsten": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "rinkeby": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "ETHW": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "PulseChain Testnet V2B": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "görli": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "xdai": "0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7",
     "binance": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
@@ -64,6 +67,7 @@ _factory_contract_addresses_v2 = {
 _router_contract_addresses_v2 = {
     "mainnet": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
     "ETHW": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+    "PulseChain Testnet V2B": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
     "ropsten": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
     "rinkeby": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
     "görli": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
