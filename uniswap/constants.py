@@ -28,7 +28,7 @@ _netid_to_name = {
     137: "polygon",
     100: "xdai",
     250: "fantom",
-    10001: "ETHW"
+    10001: "ETHW",
     42161: "arbitrum",
     421611: "arbitrum_testnet",
     1666600000: "harmony_mainnet",
